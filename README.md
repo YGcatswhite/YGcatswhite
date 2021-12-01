@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🎓 Studying Software Engineering in NJU
 
-🤔 Learning automated testing(so difficult......)
+🤔 Learning OS
 
 📫 Blog:https://www.cnblogs.com/YGcatswhite/
 
